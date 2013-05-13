@@ -24,7 +24,7 @@
     "main": "Gruntfile.js",
     "engines": { "node": ">=0.8" },
     "dependencies": {
-        "archive": "~0.4.1"
+        "archiver": "~0.4.1"
     },
     "devDependencies": {
         "grunt-contrib-jshint": "~0.1.1",
