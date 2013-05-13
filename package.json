@@ -5,14 +5,15 @@
     "homepage": "https://github.com/Two-Screen/grunt-zipstream",
     "author": "Stéphan Kochen <stephan@angrybytes.com>",
     "contributors": [
-        "Martin Naumann <martin.naumann@centralway.com>"
+        "Martin Naumann <martin.naumann@centralway.com>",
+        "TATDK <TATDenmark@gmail.com>"
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/Two-Screen/grunt-zipstream.git"
+        "url": "git://github.com/TATDK/grunt-zipstream.git"
     },
     "bugs": {
-        "url": "https://github.com/Two-Screen/grunt-zipstream/issues"
+        "url": "https://github.com/TATDK/grunt-zipstream/issues"
     },
     "licenses": [
         {
@@ -23,7 +24,7 @@
     "main": "Gruntfile.js",
     "engines": { "node": ">=0.8" },
     "dependencies": {
-        "zipstream": "0.2"
+        "archive": "~0.4.1"
     },
     "devDependencies": {
         "grunt-contrib-jshint": "~0.1.1",
